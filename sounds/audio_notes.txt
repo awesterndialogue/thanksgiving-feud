@@ -1,0 +1,11 @@
+Extracted from the church-supplied PowerPoint (PPTM). The sound filenames below are descriptions based on embedded media names and PowerPoint triggers. These audio files may be from separately licensed TV/game-show materials; verify rights before publicly publishing on GitHub Pages.
+
+audio1.wav => 6s_game_theme.wav
+audio2.wav => answer_reveal.wav
+audio3.wav => wrong_answer_short.wav
+audio4.wav => game_theme_long.wav
+audio5.wav => silence.wav
+audio6.wav => wrong_answer_alt.wav
+audio7.wav => answer_review_effect.wav
+audio8.wav => crowd_cheer.wav
+audio9.wav => crowd_boo.wav
